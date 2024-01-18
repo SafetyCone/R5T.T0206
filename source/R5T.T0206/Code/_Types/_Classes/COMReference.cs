@@ -6,7 +6,7 @@ using R5T.T0142;
 namespace R5T.T0206
 {
     /// <summary>
-    /// The raw COM reference data for the Visual Studio project file.
+    /// The framework-typed COM reference data for the Visual Studio (MSBuild) project file.
     /// </summary>
     [DataTypeMarker]
     public class COMReference
